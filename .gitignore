@@ -1,0 +1,15 @@
+# entorno
+.venv/
+.vscode/
+
+# checkpoints
+*.ipynb_checkpoints
+
+# logs
+logs/
+
+# imagenes
+*.jpg
+*.png
+*.gif
+*.jpeg
