@@ -1,2 +1,8 @@
-transformers
 timm
+scikit-learn
+evaluate
+accelerate==0.20.1
+transformers==4.30.2
+datasets
+transformers
+jupyter
